@@ -23,7 +23,7 @@
     "admin",
     "websocket"
   ],
-  "author": "Damien Arrachequesne <damien.arrachequesne@gmail.com>",
+  "author": "Ibrohim Isroilov",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/socketio/socket.io-admin-ui/issues"
