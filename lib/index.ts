@@ -346,6 +346,9 @@ const serialize = (
     socket.handshake.headers["x-forwarded-for"] ||
     socket.handshake.address;
   return {
+    customId: socket.customId,
+    username: socket.username,
+    profileImage: socket.profileImage,
     id: socket.id,
     clientId,
     transport,

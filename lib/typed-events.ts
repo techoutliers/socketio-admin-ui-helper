@@ -28,6 +28,9 @@ export interface SerializedSocket {
   nsp: string;
   handshake: any;
   rooms: string[];
+  customId: string;
+  username: string;
+  profileImage: any
 }
 
 export interface ServerEvents {
