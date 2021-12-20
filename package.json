@@ -1,5 +1,5 @@
 {
-  "name": "@socket.io/admin-ui",
+  "name": "tursunali/admin-ui",
   "version": "0.2.0",
   "description": "Admin UI for Socket.IO",
   "files": [
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/socketio/socket.io-admin-ui.git"
+    "url": "git+https://github.com/techoutliers/socket.io-admin-ui.git"
   },
   "keywords": [
     "socket.io",
@@ -26,9 +26,9 @@
   "author": "tursunali",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/socketio/socket.io-admin-ui/issues"
+    "url": "https://github.com/techoutliers/socket.io-admin-ui/issues"
   },
-  "homepage": "https://github.com/socketio/socket.io-admin-ui#readme",
+  "homepage": "https://github.com/techoutliers/socket.io-admin-ui#readme",
   "dependencies": {
     "@types/bcrypt": "~3.0.0",
     "bcrypt": "~5.0.1",
